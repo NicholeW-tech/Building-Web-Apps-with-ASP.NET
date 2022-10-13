@@ -1,0 +1,15 @@
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\bin\Debug\net6.0\madLibs.exe
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\bin\Debug\net6.0\madLibs.deps.json
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\bin\Debug\net6.0\madLibs.runtimeconfig.json
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\bin\Debug\net6.0\madLibs.dll
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\bin\Debug\net6.0\madLibs.pdb
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.csproj.AssemblyReference.cache
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.AssemblyInfoInputs.cache
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.AssemblyInfo.cs
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.csproj.CoreCompileInputs.cache
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.dll
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\refint\madLibs.dll
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.pdb
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\madLibs.genruntimeconfig.cache
+C:\Users\nicho\OneDrive\Desktop\Building-Web-Apps-with-ASP.NET\madLibs\madLibs\obj\Debug\net6.0\ref\madLibs.dll
