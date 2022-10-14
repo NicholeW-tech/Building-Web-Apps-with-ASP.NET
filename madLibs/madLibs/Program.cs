@@ -40,3 +40,10 @@ Console.Write("Enter a dessert: ");
 string dessert = Console.ReadLine();
 Console.Write("Enter a year: ");
 string year = Console.ReadLine();
+// The template for the story:
+
+string story = $"This morning {name} woke up feeling {adj1}. 'It is going to be a {adj2} day!'" +
+    $" Outside, a bunch of {animal}s were protesting to keep {food} in stores. They began to {verb1}" +
+    $" to the rhythm of the {noun1}, which made all the {fruit}s very {adj3}. Concerned, {name} texted " +
+    $"{superhero}, who flew {name} to {country} and dropped {name} in a puddle of frozen {dessert}. {name}" +
+    $" woke up in the year {year}, in a world where {noun2}s ruled the world.";
