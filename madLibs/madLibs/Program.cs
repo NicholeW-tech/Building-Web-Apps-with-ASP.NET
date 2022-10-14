@@ -47,3 +47,6 @@ string story = $"This morning {name} woke up feeling {adj1}. 'It is going to be 
     $" to the rhythm of the {noun1}, which made all the {fruit}s very {adj3}. Concerned, {name} texted " +
     $"{superhero}, who flew {name} to {country} and dropped {name} in a puddle of frozen {dessert}. {name}" +
     $" woke up in the year {year}, in a world where {noun2}s ruled the world.";
+
+// Print the story:
+Console.Write(story);
