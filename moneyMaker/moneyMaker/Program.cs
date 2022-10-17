@@ -10,3 +10,6 @@ double goldCoins = Math.Floor(convertCoinAmount / goldValue);
 double leftOver = convertCoinAmount % goldValue;
 double silverCoins = Math.Floor(leftOver / silverValue);
 leftOver = leftOver % silverValue;
+Console.WriteLine($"Gold coins: {goldCoins}");
+Console.WriteLine($"Silver coins: {silverCoins}");
+Console.WriteLine($"Bronze coins : {leftOver}");
