@@ -8,3 +8,5 @@ int goldValue = 10;
 int silverValue = 5;
 double goldCoins = Math.Floor(convertCoinAmount / goldValue);
 double leftOver = convertCoinAmount % goldValue;
+double silverCoins = Math.Floor(leftOver / silverValue);
+leftOver = leftOver % silverValue;
