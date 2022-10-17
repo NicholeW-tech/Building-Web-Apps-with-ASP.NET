@@ -4,3 +4,5 @@ Console.WriteLine("Please enter an amount to convert to coins:");
 string userCoinAmount = Console.ReadLine();
 double convertCoinAmount = Convert.ToDouble(userCoinAmount);
 Console.WriteLine($"{convertCoinAmount} cents is equal to...");
+int goldValue = 10;
+int silverValue = 5;
