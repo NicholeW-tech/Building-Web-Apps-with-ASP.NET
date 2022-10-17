@@ -6,3 +6,5 @@ double convertCoinAmount = Convert.ToDouble(userCoinAmount);
 Console.WriteLine($"{convertCoinAmount} cents is equal to...");
 int goldValue = 10;
 int silverValue = 5;
+double goldCoins = Math.Floor(convertCoinAmount / goldValue);
+double leftOver = convertCoinAmount % goldValue;
